@@ -15,5 +15,5 @@ and [docker-compose](https://docs.docker.com/compose/install/)
     To access endpoints run:
     ```shell script
     curl -X POST -H "Content-Type: application/json" -d @test_file.json http://127.0.0.1:5000/zadanie1
-       curl -X POST -H "Content-Type: application/json" -d @test_file.json http://127.0.0.1:5000/zadanie1
+    curl -X POST -H "Content-Type: application/json" -d @test_file.json http://127.0.0.1:5000/zadanie2
     ```
